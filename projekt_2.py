@@ -52,7 +52,6 @@ def zivoty():
         print("in", lives, "guesses!")
 
 # Ošetření vstupů + průběh
-print(number_random)
 while True:
     bulls = 0
     cows = 0
